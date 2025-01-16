@@ -200,3 +200,4 @@ certificates/
 target/
 *.bin
 .aws.envsessions/
+error-handling/
