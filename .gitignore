@@ -199,4 +199,4 @@ certificates/
 *.parquet
 target/
 *.bin
-.aws.env
+.aws.envsessions/
