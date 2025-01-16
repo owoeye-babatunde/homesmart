@@ -23,15 +23,8 @@ A high-performance house price prediction system implemented in Rust, leveraging
   - VSCode/Cursor
 
 ## 🏗 Architecture
+![Architecture](assets/architecture.png)
 
-```
-src/
-├── data/        # Data loading and processing
-├── features/    # Feature engineering with Polars
-├── models/      # ML model implementation
-├── api/         # REST API server
-└── utils/       # Helper functions
-```
 
 ## 🚀 Getting Started
 

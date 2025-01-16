@@ -201,3 +201,5 @@ target/
 *.bin
 .aws.envsessions/
 error-handling/
+sessions/
+error-handling/
