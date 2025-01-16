@@ -2,6 +2,9 @@
 
 A high-performance house price prediction system implemented in Rust, leveraging Rust's safety guarantees and blazing-fast performance for machine learning applications.
 
+## 🏗 Architecture
+![Architecture](assets/architecture.png)
+
 ## 🚀 Features
 
 - **Pure Rust Implementation**: Built entirely in Rust for maximum performance and safety
@@ -21,9 +24,6 @@ A high-performance house price prediction system implemented in Rust, leveraging
   - rustc
   - rust-analyzer
   - VSCode/Cursor
-
-## 🏗 Architecture
-![Architecture](assets/architecture.png)
 
 
 ## 🚀 Getting Started
