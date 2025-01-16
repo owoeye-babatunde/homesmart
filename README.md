@@ -43,7 +43,7 @@ rustup component add clippy
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rust-house-prediction.git
+git clone https://github.com/owoeye-babatunde/homesmart.git
 
 # Build the project
 cargo build --release
